@@ -1,1 +1,5 @@
-# Teachers-Data
+-	A company has a lot of data and data points to various activities and departments including teachers records. They store a lot of the data in the CSV/Excel format.
+-	Store this data in a persistence format as in a SQLite database.
+-	Use it in combination with Pandas and Python to do the job.
+-	Ingest the CSV/Excel datafile, store it in a SQLite database and also be able to display it in a browser for the employees and department bosses to use it.
+-	That means you will have to display the results in HTML tables and style it beautifully with CSS.
